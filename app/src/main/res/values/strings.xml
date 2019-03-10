@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="numTotal">Bill Total: </string>
+    <string name="numTax">Tax Rate: </string>
+    <string name="numTip">Tip Percent: </string>
+    <string name="labelTotal">Bill Total: </string>
+    <string name="labelTax">Tax Total: </string>
+    <string name="labelTip">Tip Total: </string>
+    <string name="labelGrandTotal">Grand Total: </string>
+    <string name="btnSubmit">Calculate</string>
+    <string name="titleMain">🧾 Tip Calculator!</string>
+    <string name="titleReceipt">🧾 Your Receipt!</string>
+</resources>
